@@ -16,6 +16,6 @@
     "ethers": "5.7.2"
   },
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/answers.ts"
   }
 }
